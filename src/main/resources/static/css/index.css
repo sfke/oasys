@@ -1,0 +1,46 @@
+html {
+	height: 100%;
+}
+
+body {
+	height: 100%;
+}
+
+.main {
+	height: 100%;
+}
+
+.main .container-fluid {
+	height: 100%;
+}
+
+.container-fluid .row {
+	height: 100%;
+	padding: 0px;
+}
+
+.row .smallDiv {
+	height: 100%;
+}
+
+.smallDiv .left-top {
+	height: 5%;
+}
+
+.smallDiv .list-left {
+	height: 95%;
+}
+
+.row .moredeep {
+	padding: 0;
+	margin: 0;
+	height: 100%;
+}
+
+.moredeep .right-top {
+	height: 5%;
+}
+
+.moredeep .list-right {
+	height: 95%;
+}
