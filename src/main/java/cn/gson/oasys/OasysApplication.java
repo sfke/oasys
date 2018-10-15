@@ -8,6 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class OasysApplication {
 
 	public static void main(String[] args) {
+		System.out.println("begin");
 		SpringApplication.run(OasysApplication.class, args);
 	}
 }
