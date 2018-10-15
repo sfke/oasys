@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class OasysApplication {
 
 	public static void main(String[] args) {
-		System.out.println("begin");
+		System.out.println("begin is over");
 		SpringApplication.run(OasysApplication.class, args);
 	}
 }
